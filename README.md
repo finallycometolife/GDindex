@@ -273,9 +273,3 @@ const uiConfig = {
 * [Privacy Policy](https://gdi.js.org/privacy)
 * [LICENSE](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/blob/master/LICENSE)
 
-
-### Donate by Crpto
-
-* ETH `0xaf25cdc7967213172a745453a64e8a0b59686729`
-* BTC `3BgSznxLB5u4WiuVERb1dKWeTqSSwK9NPW`
-* BAT `0xaf25cdc7967213172a745453a64e8a0b59686729`
