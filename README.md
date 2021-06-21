@@ -1,23 +1,6 @@
 # Google Personal/Shared Drive Index 
 
-[![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Google-Drive-Index/badge/year)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Google-Drive-Index)
-[![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Google-Drive-Index/badge/month)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Google-Drive-Index) 
-[![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Google-Drive-Index/badge/week)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Google-Drive-Index) 
-[![](https://data.jsdelivr.com/v1/package/gh/ParveenBhadooOfficial/Google-Drive-Index/badge/day)](https://www.jsdelivr.com/package/gh/ParveenBhadooOfficial/Google-Drive-Index) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParveenBhadooOfficial%2FGoogle-Drive-Index&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
-
-
-# [READ THIS TO FIX ISSUES](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/wiki/Getting-Started-with-gdi.js.org)
-
-## Full Whitelabel and Customizable Index | One of a kind
-
-## IMPORTANT UPDATE
-
-* If your index stopped working, that means you're using old config, please generate new code with features and bug fixes.
-
-### [Generate Code](https://gdi.js.org/build)
-
-* Discuss Problems here at [Discussions](https://github.com/ParveenBhadooOfficial/Google-Drive-Index/discussions)
+### Generate Code
 * Supports Both My and Team/Shared Drives with Dark Mode.
 * Click https://generator.driveindex.ga to make yours or watch https://youtu.be/Ihk4Gm3DPvg.
 
